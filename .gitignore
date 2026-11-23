@@ -1,0 +1,3 @@
+# Journal PDFs (copyrighted) and faculty CVs (personal contact details) stay in Dropbox only.
+*.pdf
+.DS_Store
